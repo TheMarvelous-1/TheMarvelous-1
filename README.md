@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure / Cloud Projects</b>
   - [Creating a Live Soc /Honeynet in Azure](https://github.com/TheMarvelous-1/Azure-Cloud-SOC)
-
+  - [ Ticketing Alerts & Doing Incident Response in Azure Microsoft Sentinel(https://github.com/TheMarvelous-1/Microsoft-Sentinel-IR)
 <h2>📺 Popular YouTube Videos</h2>
 
 PC Build Short https://www.youtube.com/shorts/MubcgagpaN4
